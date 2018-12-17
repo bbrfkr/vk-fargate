@@ -5,7 +5,7 @@
 git clone https://github.com/bbrfkr/vk-fargate.git
 ```
 
-2. Build and push docker image.  
+2. Build docker image.  
 ```
 cd vk-fargate
 docker build -t <your dockerhub account>/vk-fargate:latest .
