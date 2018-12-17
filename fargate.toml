@@ -1,0 +1,12 @@
+Region = "FARGATE_CLUSTER_REGION"
+ClusterName = "FARGATE_CLUSTER_NAME"
+Subnets = [FARGATE_SUBNETS]
+SecurityGroups = [FARGATE_SGS]
+AssignPublicIPv4Address = true
+ExecutionRoleArn = ""
+CloudWatchLogGroupName = ""
+PlatformVersion = "LATEST"
+OperatingSystem = "Linux"
+CPU = "20"
+Memory = "40Gi"
+Pods = "20"
