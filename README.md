@@ -1,6 +1,6 @@
 # Virtual Kubelet Container for AWS Fargate
 
-![overview image](https://github.com/bbrfkr/vk-fargate/pict.png?raw=true)
+![overview image](https://raw.githubusercontent.com/bbrfkr/vk-fargate/master/pict.png)
 
 ## Get Started
 1. Clone this repo.  
